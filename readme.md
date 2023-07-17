@@ -100,6 +100,11 @@ This project is mainly developed by: ...
 * PyTorch 2.0.0
 
 ### Installation
+Clone this repo!
+```sh
+git clone --recurse-submodules https://github.com/supercgor/PIAL.git
+```
+
 
 These codes might help you to install the environment for this project.
 
