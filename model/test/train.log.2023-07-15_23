@@ -1,0 +1,80 @@
+[07/15/2023 22:18:42 - INFO]: This code is a basic example of the DeepONet using physics-informed active learning.
+[07/15/2023 22:18:42 - INFO]: Using 1 GPU(s). The name of devices: NVIDIA GeForce GTX 1650 with Max-Q Design
+[07/15/2023 22:18:42 - INFO]: Training hyperparameters:
+[07/15/2023 22:18:42 - INFO]: batchsize: None, iteration: 5000, lr = 0.001, decay_step = 1000, decay_rate = 0.5, initial data: 20, testing number: 100, selecting number: 20, total data: 200.
+[07/15/2023 22:18:43 - INFO]: Training data: Random
+[07/15/2023 22:18:43 - INFO]: vx shape (20, 101), uxt shape (20, 10201), grid shape (10201, 2).
+[07/15/2023 22:18:44 - INFO]: Testing data: dataset/DF_1000test_ls0.1_101x101.npz.
+[07/15/2023 22:18:44 - INFO]: vx shape (1000, 101), uxt shape (1000, 10201), grid shape (10201, 2).
+[07/15/2023 22:22:34 - INFO]: This code is a basic example of the DeepONet using physics-informed active learning.
+[07/15/2023 22:22:34 - INFO]: Using 1 GPU(s). The name of devices: NVIDIA GeForce GTX 1650 with Max-Q Design
+[07/15/2023 22:22:34 - INFO]: Training hyperparameters:
+[07/15/2023 22:22:34 - INFO]: batchsize: None, iteration: 5000, lr = 0.001, decay_step = 1000, decay_rate = 0.5, initial data: 20, testing number: 100, selecting number: 20, total data: 200.
+[07/15/2023 22:22:35 - INFO]: Training data: Random
+[07/15/2023 22:22:35 - INFO]: vx shape (20, 101), uxt shape (20, 10201), grid shape (10201, 2).
+[07/15/2023 22:22:35 - INFO]: Testing data: dataset/DF_1000test_ls0.1_101x101.npz.
+[07/15/2023 22:22:35 - INFO]: vx shape (1000, 101), uxt shape (1000, 10201), grid shape (10201, 2).
+[07/15/2023 22:25:18 - INFO]: This code is a basic example of the DeepONet using physics-informed active learning.
+[07/15/2023 22:25:18 - INFO]: Using 1 GPU(s). The name of devices: NVIDIA GeForce GTX 1650 with Max-Q Design
+[07/15/2023 22:25:18 - INFO]: Training hyperparameters:
+[07/15/2023 22:25:18 - INFO]: batchsize: None, iteration: 5000, lr = 0.001, decay_step = 1000, decay_rate = 0.5, initial data: 20, testing number: 100, selecting number: 20, total data: 200.
+[07/15/2023 22:25:19 - INFO]: Training data: Random
+[07/15/2023 22:25:19 - INFO]: vx shape (20, 101), uxt shape (20, 10201), grid shape (10201, 2).
+[07/15/2023 22:25:20 - INFO]: Testing data: dataset/DF_1000test_ls0.1_101x101.npz.
+[07/15/2023 22:25:20 - INFO]: vx shape (1000, 101), uxt shape (1000, 10201), grid shape (10201, 2).
+[07/15/2023 22:26:50 - INFO]: This code is a basic example of the DeepONet using physics-informed active learning.
+[07/15/2023 22:26:50 - INFO]: Using 1 GPU(s). The name of devices: NVIDIA GeForce GTX 1650 with Max-Q Design
+[07/15/2023 22:26:50 - INFO]: Training hyperparameters:
+[07/15/2023 22:26:50 - INFO]: batchsize: None, iteration: 5000, lr = 0.001, decay_step = 1000, decay_rate = 0.5, initial data: 20, testing number: 100, selecting number: 20, total data: 200.
+[07/15/2023 22:26:51 - INFO]: Training data: Random
+[07/15/2023 22:26:51 - INFO]: vx shape (20, 101), uxt shape (20, 10201), grid shape (10201, 2).
+[07/15/2023 22:26:51 - INFO]: Testing data: dataset/DF_1000test_ls0.1_101x101.npz.
+[07/15/2023 22:26:51 - INFO]: vx shape (1000, 101), uxt shape (1000, 10201), grid shape (10201, 2).
+[07/15/2023 22:33:01 - INFO]: This code is a basic example of the DeepONet using physics-informed active learning.
+[07/15/2023 22:33:01 - INFO]: Using 1 GPU(s). The name of devices: NVIDIA GeForce GTX 1650 with Max-Q Design
+[07/15/2023 22:33:01 - INFO]: Training hyperparameters:
+[07/15/2023 22:33:01 - INFO]: batchsize: None, iteration: 5000, lr = 0.001, decay_step = 1000, decay_rate = 0.5, initial data: 20, testing number: 100, selecting number: 20, total data: 200.
+[07/15/2023 22:33:02 - INFO]: Training data: Random
+[07/15/2023 22:33:02 - INFO]: vx shape (20, 101), uxt shape (20, 10201), grid shape (10201, 2).
+[07/15/2023 22:33:02 - INFO]: Testing data: dataset/DF_1000test_ls0.1_101x101.npz.
+[07/15/2023 22:33:02 - INFO]: vx shape (1000, 101), uxt shape (1000, 10201), grid shape (10201, 2).
+[07/15/2023 22:34:27 - INFO]: This code is a basic example of the DeepONet using physics-informed active learning.
+[07/15/2023 22:34:27 - INFO]: Using 1 GPU(s). The name of devices: NVIDIA GeForce GTX 1650 with Max-Q Design
+[07/15/2023 22:34:27 - INFO]: Training hyperparameters:
+[07/15/2023 22:34:27 - INFO]: batchsize: None, iteration: 5000, lr = 0.001, decay_step = 1000, decay_rate = 0.5, initial data: 20, testing number: 100, selecting number: 20, total data: 200.
+[07/15/2023 22:34:28 - INFO]: Training data: Random
+[07/15/2023 22:34:28 - INFO]: vx shape (20, 101), uxt shape (20, 10201), grid shape (10201, 2).
+[07/15/2023 22:34:28 - INFO]: Testing data: dataset/DF_1000test_ls0.1_101x101.npz.
+[07/15/2023 22:34:28 - INFO]: vx shape (1000, 101), uxt shape (1000, 10201), grid shape (10201, 2).
+[07/15/2023 22:37:52 - INFO]: This code is a basic example of the DeepONet using physics-informed active learning.
+[07/15/2023 22:37:52 - INFO]: Using 1 GPU(s). The name of devices: NVIDIA GeForce GTX 1650 with Max-Q Design
+[07/15/2023 22:37:52 - INFO]: Training hyperparameters:
+[07/15/2023 22:37:52 - INFO]: batchsize: None, iteration: 5000, lr = 0.001, decay_step = 1000, decay_rate = 0.5, initial data: 20, testing number: 100, selecting number: 20, total data: 200.
+[07/15/2023 22:37:53 - INFO]: Training data: Random
+[07/15/2023 22:37:53 - INFO]: vx shape (20, 101), uxt shape (20, 10201), grid shape (10201, 2).
+[07/15/2023 22:37:54 - INFO]: Testing data: dataset/DF_1000test_ls0.1_101x101.npz.
+[07/15/2023 22:37:54 - INFO]: vx shape (1000, 101), uxt shape (1000, 10201), grid shape (10201, 2).
+[07/15/2023 22:42:53 - INFO]: This code is a basic example of the DeepONet using physics-informed active learning.
+[07/15/2023 22:42:53 - INFO]: Using 1 GPU(s). The name of devices: NVIDIA GeForce GTX 1650 with Max-Q Design
+[07/15/2023 22:42:53 - INFO]: Training hyperparameters:
+[07/15/2023 22:42:53 - INFO]: batchsize: None, iteration: 5000, lr = 0.001, decay_step = 1000, decay_rate = 0.5, initial data: 20, testing number: 100, selecting number: 20, total data: 200.
+[07/15/2023 22:42:54 - INFO]: Training data: Random
+[07/15/2023 22:42:54 - INFO]: vx shape (20, 101), uxt shape (20, 10201), grid shape (10201, 2).
+[07/15/2023 22:42:54 - INFO]: Testing data: dataset/DF_1000test_ls0.1_101x101.npz.
+[07/15/2023 22:42:54 - INFO]: vx shape (1000, 101), uxt shape (1000, 10201), grid shape (10201, 2).
+[07/15/2023 22:44:44 - INFO]: This code is a basic example of the DeepONet using physics-informed active learning.
+[07/15/2023 22:44:44 - INFO]: Using 1 GPU(s). The name of devices: NVIDIA GeForce GTX 1650 with Max-Q Design
+[07/15/2023 22:44:44 - INFO]: Training hyperparameters:
+[07/15/2023 22:44:44 - INFO]: batchsize: None, iteration: 5000, lr = 0.001, decay_step = 1000, decay_rate = 0.5, initial data: 20, testing number: 100, selecting number: 20, total data: 200.
+[07/15/2023 22:44:45 - INFO]: Training data: Random
+[07/15/2023 22:44:45 - INFO]: vx shape (20, 101), uxt shape (20, 10201), grid shape (10201, 2).
+[07/15/2023 22:44:45 - INFO]: Testing data: dataset/DF_1000test_ls0.1_101x101.npz.
+[07/15/2023 22:44:45 - INFO]: vx shape (1000, 101), uxt shape (1000, 10201), grid shape (10201, 2).
+[07/15/2023 23:12:12 - INFO]: This code is a basic example of the DeepONet using physics-informed active learning.
+[07/15/2023 23:12:12 - INFO]: Using 1 GPU(s). The name of devices: NVIDIA GeForce GTX 1650 with Max-Q Design
+[07/15/2023 23:12:12 - INFO]: Training hyperparameters:
+[07/15/2023 23:12:12 - INFO]: batchsize: None, iteration: 5000, lr = 0.001, decay_step = 1000, decay_rate = 0.5, initial data: 20, testing number: 100, selecting number: 20, total data: 200.
+[07/15/2023 23:12:14 - INFO]: Training data: Random
+[07/15/2023 23:12:14 - INFO]: vx shape (20, 101), uxt shape (20, 10201), grid shape (10201, 2).
+[07/15/2023 23:12:14 - INFO]: Testing data: dataset/DF_1000test_ls0.1_101x101.npz.
+[07/15/2023 23:12:14 - INFO]: vx shape (1000, 101), uxt shape (1000, 10201), grid shape (10201, 2).
