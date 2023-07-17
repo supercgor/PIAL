@@ -30,8 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/supercgor/PIAL">
+    <img src="images/logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">Physics informed active learning (PIAL) for DeepONet</h3>
@@ -39,14 +39,14 @@
   <p align="center">
     This repo is using physics-informed active learning (PIAL) to accelerate the training of neural networks (NNs) for solving partial differential equations (PDEs).
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/supercgor/PIAL"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/supercgor/PIAL">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/supercgor/PIAL/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/supercgor/PIAL/issues">Request Feature</a>
   </p>
 </div>
 
@@ -128,7 +128,7 @@ Edit test_pde.ipynb might help you to understand how to use this project.
 - [ ] Add more PDES
 - [ ] Add more active learning methods
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/supercgor/PIAL/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
